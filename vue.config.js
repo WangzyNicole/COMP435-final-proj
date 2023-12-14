@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: './',
+  publicPath: '/COMP435-final-proj/',
   chainWebpack: config => {
     // csv-loader
     config.module
