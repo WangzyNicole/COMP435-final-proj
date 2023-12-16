@@ -15,7 +15,7 @@ let sunSize = 200, mercurySize = 30, venusSize = 45, earthSize = 50,
     marsSize = 45, jupiterSize = 90, saturnSize = 80, uranusSize = 70,
     neptuneSize = 65, plutoSize = 40;
 let sun = {
-    name: "太阳",//球体名称
+    name: "Sun",//球体名称
     mapImg: sunImg,//球体贴图
     size: sunSize,//球体尺寸
     position: [0, 0, 0],//位置(x，y，z)
