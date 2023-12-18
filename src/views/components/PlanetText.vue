@@ -25,6 +25,12 @@
         Mean Temperature (C): <span>{{ data.temp }}</span>
       </div>
       <div>
+        Centripetal Force (mv^2/r): <span> {{ data.centrip }}</span>
+      </div>
+      <div>
+        Gravitational Force (GmM/r^2): <span> {{ data.grav }}</span>
+      </div>
+      <div>
       </div>
     </div>
   </div>
